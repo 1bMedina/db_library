@@ -1,5 +1,8 @@
 # Columbia Pike Library
 Adam Hellinga & Blu Medina
+
+The Columbia Pike Library is located next to the career center and is one of the nine libraries in the Arlington Public Library system. This library is used for a variety of reasons, but it is primarily used for leisurely reading and to socialize rather than research.
+
 # Current System
 
 ## Sorting Method
